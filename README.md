@@ -62,3 +62,30 @@ Each folder contains individual problems.
 Some files may also include notes explaining the logic behind the solution.
 
 Example structure:
+
+beginner/
+even_odd.py
+largest_number.py
+
+intermediate/
+factorial.py
+prime_number.py
+
+advanced/
+recursion_problems.py
+
+
+---
+
+## Goal
+
+The goal is not just to solve problems, but to build a strong foundation in thinking like a programmer.
+
+Consistent practice matters more than speed.
+
+---
+
+## Note
+
+This is a learning repository.  
+Solutions may not always be optimal, especially in early stages. They will improve over time as my understanding grows.
