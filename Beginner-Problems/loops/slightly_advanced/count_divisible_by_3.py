@@ -8,4 +8,4 @@ for numbers in range(1, n_number+1):
         print(numbers)
         total += 1
 
-print(f"Total: {total}")
+print(f"Total: {total} Numbers Are Divisible By 3")
