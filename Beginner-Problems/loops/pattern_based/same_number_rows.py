@@ -10,4 +10,4 @@
 # 55555
 
 for numbers in range(1, 6):
-    print(f'{numbers}' * 4)
+    print(f'{numbers}' * 5)
